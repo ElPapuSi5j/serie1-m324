@@ -1,4 +1,4 @@
-console.log('Applicazione Serie 2');
+console.log('Versione main: correzione critica applicata');
 
 function avviaApplicazione() {
   console.log('Applicazione avviata');
