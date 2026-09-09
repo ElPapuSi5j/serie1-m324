@@ -1,2 +1,3 @@
 Primo file - versione iniziale
 Modifica effettuata nella branch develop.
+Riga modificata da master per creare il conflitto.
