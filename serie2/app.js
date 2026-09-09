@@ -1,4 +1,4 @@
-console.log('Applicazione Serie 2');
+console.log('Versione feature: autenticazione attiva');
 
 function avviaApplicazione() {
   console.log('Applicazione avviata');
